@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Women Safety Risk Prediction
 
 A machine-learning regression project that estimates a synthetic women-safety `Risk_Score` from location, time, lighting, CCTV, crowd density, security availability, and incident-index data.
@@ -44,3 +45,6 @@ The notebook covers data loading, validation, exploratory analysis, preprocessin
 ## Data note
 
 The CSV is labeled `Synthetic/assumption data`. The resulting scores are for educational and analytical use only; they must not be treated as verified safety measurements, emergency guidance, or a substitute for local safety resources.
+=======
+# ml_practice_notebook
+>>>>>>> 3ef804f783d8587ae8598d5b3360dcf70b74c811
